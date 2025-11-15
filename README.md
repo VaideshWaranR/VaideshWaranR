@@ -1,3 +1,7 @@
+## Hi there! 👋
+
+I'm Vaidesh, a passionate developer who loves to orchestrate everything from scripts to data, infra, AI, and business - all as code! Let's build something amazing together.
+
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=VaideshWaranR.VaideshWaranR&"  />
 </div>
@@ -63,7 +67,6 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=VaideshWaranR&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
 
